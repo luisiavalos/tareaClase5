@@ -1,0 +1,48 @@
+
+/* li{
+background-color:  rgb(234, 248, 112);
+color: coral;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(234, 248, 112);
+} */
+.foto-de-fondo{
+    background-image: url("../Imágenes/PanalDeFondo.jpg");
+    background-attachment: fixed;
+}
+
+.formulario{
+    width: fit-content;
+    background-color: rgb(234, 248, 112);
+    border: 8px solid  rgb(129, 17, 17);
+    padding: 20px;
+}
+
+.días{
+    color: rgba(113, 10, 209, 0.938);
+    background-color:rgb(234, 248, 112);
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.horarios{
+    color: rgb(113, 10, 209, 0.938);
+    background-color: rgb(234, 248, 112);
+}
+.cabecera{
+    width: 100%;
+   height: 50%;
+    background-color: rgb(234, 248, 112);
+    border: 8px solid rgb(129, 17, 17) 
+    
+    
+}
+.pieDePagina{
+    width: 100%;
+   height: 50px;
+   padding: 1%;
+    background-color: rgb(240, 102, 10);
+
+}
