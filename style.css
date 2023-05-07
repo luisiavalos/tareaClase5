@@ -1,0 +1,20 @@
+
+li{
+background-color:  rgb(234, 248, 112);
+color: coral;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(234, 248, 112);
+}
+
+.días{
+    color: rgba(113, 10, 209, 0.938);
+    background-color:rgb(143, 252, 143);
+    font-size: 30px;
+}
+
+.horarios{
+    color: rgb(113, 10, 209, 0.938);
+    background-color: rgb(143, 252, 143);
+}
